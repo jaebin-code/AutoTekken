@@ -1,0 +1,9 @@
+User Info  
+
+name: jaebin
+type: Taekwondo
+speed: 1.5
+basicAttack: 11
+advancedAttack: 17
+specialAttack: 27
+Result is lose. Try again.
