@@ -1,6 +1,6 @@
 # AutoTekken
 
-
+<img src="assets/thumbnail.jpg" alt="이미지 설명" width="300" height="auto">
 # 실시간 격투 게임 (Real-Time Fighting Game)
 ### 프로젝트 소개:
 
