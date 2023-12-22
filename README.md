@@ -1,6 +1,7 @@
 # AutoTekken
 
-<img src="assets/thumbnail.jpg" alt="이미지 설명" width="300" height="auto">
+<img src="assets/thumbnail.jpg" alt="이미지 설명" width="400" height="auto">
+
 # 실시간 격투 게임 (Real-Time Fighting Game)
 ### 프로젝트 소개:
 
@@ -13,6 +14,10 @@
 3. GUI 구현: SWING 라이브러리를 사용하여 게임의 다양한 상호작용을 시각적으로 표현하고 사용자에게 몰입감을 제공하기 위해 Progress Bar와 TextArea를 중심으로 GUI를 설계하였습니다.
 4. 예외 처리 및 파일 입출력 활용: 사용자 입력에 대한 에러를 적절히 처리하기 위해 예외를 정의하였으며, 파일 입출력을 통해 사용자가 생성한 캐릭터 정보와 결과를 저장하여 게임의 지속적인 플레이를 도모하고 데이터를 활용할 수 있게 하였습니다.
 5. 확률 구현: 난수 생성을 통해 각 공격의 선택과 성공 확률을 구현하여 게임에 다양성과 유연성을 부여하였습니다.
+
+### FlowChart
+
+<img src="assets/flowchart.jpg" alt="이미지 설명" width="400" height="auto">
 
 ### 시작하기:
 
