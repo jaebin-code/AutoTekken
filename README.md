@@ -19,13 +19,3 @@
 
 <img src="assets/flowchart.jpg" alt="이미지 설명" width="400" height="auto">
 
-### 시작하기:
-
-저장소를 클론합니다.
-
-bash
-Copy code
-git clone https://github.com/your-username/RealTimeFightingGame.git
-프로젝트를 열고 IDE에서 실행합니다.
-
-게임을 플레이하세요!
